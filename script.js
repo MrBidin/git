@@ -1,0 +1,1 @@
+const index = document.getElementsByName("h3");
